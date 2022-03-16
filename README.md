@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 🤙, I'm Jeferson</h1> 
 <h3 align="center">An student of Database and Development</h3>
 
-- 🔭 I’m currently working on Development Java on company Compsis. 
+- 🔭 I’m currently working on Development Java on company [Compsis](https://compsis.com.br/#header-top). 
 
 - 🌱 I’m currently learning [Java](https://www.java.com/pt-BR/)
 
