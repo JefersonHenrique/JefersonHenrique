@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 🤙, I'm Jeferson  <img src="https://github.com/LucasACES/LucasACES/blob/main/img/banguela-unscreen.gif" width="70px"/></h1> 
 <h3 align="center">An student passionate for python 🐍</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Development Java on company Compsis. 
 
 - 🌱 I’m currently learning [Java](https://www.java.com/pt-BR/)
 
