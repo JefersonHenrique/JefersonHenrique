@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 🤙, I'm Jeferson</h1> 
 <h3 align="center">An student of Database and Development</h3>
 
-- 🔭 I’m currently working on Development Java on company [Compsis](https://compsis.com.br/#header-top). 
+- 🔭 Atualmente estou trabalhando como Analista de Suporte N1 e N2 na empresa [Compsis](https://compsis.com.br/#header-top). 
 
-- 🌱 I’m currently learning [Java](https://www.java.com/pt-BR/)
+- 🌱 Estou estudando [Data Science]
 
-- 👨‍💻 All of my projects are available at ⚠️Repositories⚠️
+- 👨‍💻 Todos os meus projetos estão disponíveis em ⚠️Repositories⚠️
 
-- 📫 How to reach me **jeferson.hms@hotmail.com**
+- 📫 Para ter contato comigo, basta enviar um email **jeferson.hms@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
