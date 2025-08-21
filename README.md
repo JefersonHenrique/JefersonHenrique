@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 🤙, I'm Jeferson</h1> 
 <h3 align="center">An student of Database and Development</h3>
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte N1 e N2 na empresa [Compsis](https://compsis.com.br/#header-top). 
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas Pleno [CI&T]([https://compsis.com.br/#header-top](https://ciandt.com/br/pt-br/home)). 
 
 - 🌱 Estou estudando [Data Science]
 
